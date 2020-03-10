@@ -17,21 +17,22 @@ function App() {
             <h1>Inventory</h1>
             <div className="contenido-principal contenido">
               {showQuestion ? 
-              (<Question
-              saveInventory={saveInventory}
-              saveLefting={saveLefting}
-              updateQuestion={updateQuestion}
-              />) 
-            : ( 
-              <div className="row">
-                <div className="one-half column">
-                <Form />
+                (<Question
+                saveInventory={saveInventory}
+                saveLefting={saveLefting}
+                updateQuestion={updateQuestion}
+                />) 
+              : ( 
+                <div className="row">
+                  <div className="one-half column">
+                  <Form />
+                  </div>
+                  <div className="one-half column">
+                    2
+                  </div>
                 </div>
-                <div className="one-half column">
-                  2
-                </div>
-              </div>
-          )}
+                )
+              }
             
            
             </div>
