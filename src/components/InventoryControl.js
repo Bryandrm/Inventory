@@ -11,6 +11,6 @@ const InventoryControl= ({inventory, lefting}) => {
             </div>
         </Fragment>
      );
-}
+} 
  
 export default InventoryControl;
