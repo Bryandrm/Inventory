@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bryandrm/Inventory/static/css/main.61c744dc.chunk.css",
+    "main.js": "/Bryandrm/Inventory/static/js/main.22e897b7.chunk.js",
+    "main.js.map": "/Bryandrm/Inventory/static/js/main.22e897b7.chunk.js.map",
+    "runtime-main.js": "/Bryandrm/Inventory/static/js/runtime-main.ba5a377d.js",
+    "runtime-main.js.map": "/Bryandrm/Inventory/static/js/runtime-main.ba5a377d.js.map",
+    "static/js/2.0af04045.chunk.js": "/Bryandrm/Inventory/static/js/2.0af04045.chunk.js",
+    "static/js/2.0af04045.chunk.js.map": "/Bryandrm/Inventory/static/js/2.0af04045.chunk.js.map",
+    "index.html": "/Bryandrm/Inventory/index.html",
+    "precache-manifest.dbf2f33843dabad16e261c82a526e3b5.js": "/Bryandrm/Inventory/precache-manifest.dbf2f33843dabad16e261c82a526e3b5.js",
+    "service-worker.js": "/Bryandrm/Inventory/service-worker.js",
+    "static/css/main.61c744dc.chunk.css.map": "/Bryandrm/Inventory/static/css/main.61c744dc.chunk.css.map",
+    "static/js/2.0af04045.chunk.js.LICENSE.txt": "/Bryandrm/Inventory/static/js/2.0af04045.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba5a377d.js",
+    "static/js/2.0af04045.chunk.js",
+    "static/css/main.61c744dc.chunk.css",
+    "static/js/main.22e897b7.chunk.js"
+  ]
+}
