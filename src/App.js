@@ -36,7 +36,7 @@ useEffect(() =>{
     
     
   }
-}, [spend]);
+}, [spend, createSpend, spends, lefting]);
 
   // when user adds a new spend
   // const addNewSpend = spend => {
